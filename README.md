@@ -1,2 +1,1 @@
-# Shopping site
-# Author - Ankit Pandey
+# Shopping site - Author - Ankit Pandey
